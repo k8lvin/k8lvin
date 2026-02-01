@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on data based projects
 - 📫 How to reach me on  murimikelvinn@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: 
 
 <!---
 k8lvin/k8lvin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
