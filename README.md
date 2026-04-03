@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @k8lvin
-- 👀 I’m interested in data 
-- 💞️ I’m looking to collaborate on data based projects
-- 📫 How to reach me on  murimikelvinn@gmail.com
-- 😄 Pronouns: He/Him
-
-<!---
-k8lvin/k8lvin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m a Data Scientist & Machine Learning Engineer with 1 year of building data driven solutions using Python, SQL and modern ML frameworks
+I have hands on experience in data analysis, feature engineering and building predictive models using libraries like Pandas, NumPy, Scikit-learn and TensorFlow. 
+I’m comfortable working across the full data science lifecycle: from data collection and cleaning to model evaluation and deployment.
+I’m open to collaborating on data science and machine learning projects, contributing to open source and continuously learning from the community. I’m also seeking mentorship and growth opportunities in advanced machine learning.
