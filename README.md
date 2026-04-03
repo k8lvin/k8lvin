@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @k8lvin
 - 👀 I’m interested in data 
-- 🌱 I’m currently learning data analytics / data science
 - 💞️ I’m looking to collaborate on data based projects
 - 📫 How to reach me on  murimikelvinn@gmail.com
 - 😄 Pronouns: He/Him
